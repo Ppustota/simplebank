@@ -11,7 +11,6 @@ import zura.pustota.simplebank.dto.responses.NotEnoughBalanceResponse;
 import zura.pustota.simplebank.exception.AccountNotFoundException;
 import zura.pustota.simplebank.exception.NotEnoughBalanceException;
 import zura.pustota.simplebank.service.AccountService;
-
 import java.sql.Timestamp;
 
 @org.springframework.web.bind.annotation.ControllerAdvice
