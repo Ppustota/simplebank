@@ -15,9 +15,7 @@ import zura.pustota.simplebank.repo.AccountRepo;
 import zura.pustota.simplebank.repo.TransactionRepo;
 
 import java.math.BigDecimal;
-import java.sql.Time;
 import java.sql.Timestamp;
-import java.util.Optional;
 
 @Service @Slf4j
 @RequiredArgsConstructor
